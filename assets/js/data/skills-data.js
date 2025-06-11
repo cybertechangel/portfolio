@@ -24,6 +24,22 @@ const skillsData = [
         name: "JSON"
     },
     {
+        icon: "fab fa-php",
+        name: "PHP"
+    },
+    {
+        icon: "fas fa-database",
+        name: "SQL"
+    },
+    {
+        icon: "fas fa-leaf",
+        name: "MongoDB"
+    },
+    {
+        icon: "fas fa-cloud",
+        name: "REST API"
+    },
+    {
         icon: "fab fa-bootstrap",
         name: "Bootstrap"
     },
