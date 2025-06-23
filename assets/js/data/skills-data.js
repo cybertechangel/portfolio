@@ -24,8 +24,8 @@ const skillsData = [
         name: "JSON"
     },
     {
-        icon: "fab fa-php",
-        name: "PHP"
+        icon: "fab fa-express",
+        name: "Express.js"
     },
     {
         icon: "fas fa-database",
